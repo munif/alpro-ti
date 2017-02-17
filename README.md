@@ -3,10 +3,26 @@ Repository for Algorithm and Programming course at Department of Industrial Engi
 Here you can find presentation files and sample codes used in this course.
 
 ## Learning Outcomes
-...
+* Students able to think algorithmically in solving computational problems
+* Students able to make a computer program using high level programming language (C, C++, VB, Python) to implement the algorithm.
 
 ## Learning Schedule
-...
+1. Introduction to Algorithms and Programming
+2. Algorithm with Branching
+3. Algorithm with Looping
+4. Introduction to Python: IDE, variable and data types
+5. Quiz 1
+6. Python Programming: Looping
+7. Python Programming: Branching
+8. Midterm Exam
+9. Modular Programming with Function/Procedure (1)
+10. Modular Programming with Function/Procedure (1)
+11. Array and Collections (1)
+12. Quiz 2
+13. Array and Collections (2)
+14. File Operations (1)
+15. File Operations (2)
+16. Final Exam
 
 ## References
 [1] A. Sweigart, Invent Your Own Computer Games with Python, 2nd Edition.  
