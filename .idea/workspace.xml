@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba62e45b-99bb-430f-9ee4-d5ac2cd33140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notebook/Soal ETS Alpro TI - 7 April 2017.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebook/Pertemuan 4.ipynb" afterPath="$PROJECT_DIR$/notebook/Pertemuan 4.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebook/Pertemuan 5 - Looping.ipynb" afterPath="$PROJECT_DIR$/notebook/Pertemuan 5 - Looping.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebook/While Loops.ipynb" afterPath="$PROJECT_DIR$/notebook/While Loops.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebook/Soal ETS Alpro TI - 7 April 2017.ipynb" afterPath="$PROJECT_DIR$/notebook/Soal ETS Alpro TI - 7 April 2017.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +13,17 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Soal ETS Alpro TI - 7 April 2017.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notebook/Soal ETS Alpro TI - 7 April 2017.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -277,9 +283,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -383,7 +390,7 @@
     <entry file="file://$PROJECT_DIR$/notebook/Soal ETS Alpro TI - 7 April 2017.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
